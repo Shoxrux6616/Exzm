@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Project\\Exam1\\Exzm\\firstExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|d:\\project\\exam1\\exzm\\firstexam\\firstexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|solutionrelative:firstexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|d:\\project\\exam1\\exzm\\firstexam\\firstexam\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|solutionrelative:firstexam\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|d:\\project\\exam1\\exzm\\firstexam\\firstexam\\service\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB3CF89-9820-4CF4-9790-B09F69408D9E}|firstExam\\firstExam.csproj|solutionrelative:firstexam\\service\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Program.cs",
-              "RelativeDocumentMoniker": "firstExam\\Program.cs",
-              "ToolTip": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Program.cs",
-              "RelativeToolTip": "firstExam\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "PhoneService.cs",
+              "DocumentMoniker": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Service\\PhoneService.cs",
+              "RelativeDocumentMoniker": "firstExam\\Service\\PhoneService.cs",
+              "ToolTip": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Service\\PhoneService.cs",
+              "RelativeToolTip": "firstExam\\Service\\PhoneService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:54:29.556Z",
+              "WhenOpened": "2024-11-30T04:37:32.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "firstExam\\Models\\Phone.cs",
+              "ToolTip": "D:\\Project\\Exam1\\Exzm\\firstExam\\firstExam\\Models\\Phone.cs",
+              "RelativeToolTip": "firstExam\\Models\\Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:36:24.309Z",
               "EditorCaption": ""
             }
           ]
