@@ -1,0 +1,15 @@
+D:\Project\Exam1\Exzm\firstExam\firstExam\bin\Debug\net8.0\firstExam.exe
+D:\Project\Exam1\Exzm\firstExam\firstExam\bin\Debug\net8.0\firstExam.deps.json
+D:\Project\Exam1\Exzm\firstExam\firstExam\bin\Debug\net8.0\firstExam.runtimeconfig.json
+D:\Project\Exam1\Exzm\firstExam\firstExam\bin\Debug\net8.0\firstExam.dll
+D:\Project\Exam1\Exzm\firstExam\firstExam\bin\Debug\net8.0\firstExam.pdb
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.AssemblyInfoInputs.cache
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.AssemblyInfo.cs
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.csproj.CoreCompileInputs.cache
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.sourcelink.json
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.dll
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\refint\firstExam.dll
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.pdb
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\firstExam.genruntimeconfig.cache
+D:\Project\Exam1\Exzm\firstExam\firstExam\obj\Debug\net8.0\ref\firstExam.dll

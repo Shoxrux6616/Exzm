@@ -14,6 +14,7 @@ internal class Program
     public static int AmountOfEvenElements(int number)
     {
         var resault = new List<int>();
+        Random random = new Random();
 
         if (number % 2 == 0)
         {
